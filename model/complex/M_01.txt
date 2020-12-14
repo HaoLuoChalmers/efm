@@ -1,0 +1,301 @@
+-ENZREV
+2OBUTtm 3MOBtm 3MOPtm
+AATA ACALDtm ACOAH ACONT ACONTm ACtm ADK1 ADK1m AGTm AKGDam ALAt2m ALCD2m ALCD2x ARGSL ARGSSr ASPTA
+CITtam CITtcm CO2t CO2tm
+ENO ETOHtm
+FBA FUM FUMm
+G5SADr GAPD GHMT2r GLNt2m GLUDy GLUDym GLUt2m GLXtm GLYt2m
+H2Ot H2Otm HACNHm HCITS HCITtm HICITDm HSERTA
+ILETA IPPMIa IPPMIb
+LEUTA
+MALS MALtm MCITDm MDH MDHm MTHFD
+NH4tm
+O2tm OAAt2m ORNt3m OXAGm
+PGK PGI PGM PHETA1 PIt2m PRPPS PYRt2m
+RPE RPI
+SACCD1 SACCD2 SLFAT SUCD2_u6m SUCOAS1m SULR
+TALA THRA THRt2m TKT1 TKT2 TPI TYRTA
+VALTA
+
+-ENZIRREV
+2OXOADPtim
+aicarSYN ampSYN dampSYN gmpSYN dgmpSYN umpSYN cmpSYN dcmpSYN dtmpSYN 13BDglcnSYN mannanSYN zymstSYN ergstSYN paSYN psSYN peSYN pcSYN ptd1inoSYN triglycSYN biomassSYN
+AASAD1 ACGKm ACHBSm ACLSm ACOTAim ACS ACSm ACt2r ADSK AGPRim AHSERL2 ALATA_L ALATA_Lm ALDD2xm ALDD2y ALDD2ym ANPRT ANS ASADi ASNS1 ASPKi ATPPRT ATPS ATPS3m ATPtm-H
+BPNT
+CBPS CHORM CHORS CSc CSm CYOOm CYOR_u6m CYSTGL CYSTS 
+DDPA DHAD1m DHAD2m DHQS DHQTi
+ETOHt
+FBP FDH FTHFL
+G3PD1ir G3PT G5SD G6PDH2 GLCt1 GLNS GLU5K GLUSxm GLYCt GLYK GND
+HEX1 HISTP HSDyi HSK HISTD HSTPT
+ICDHy ICL ICDHxm IG3PS IGPDH IGPS IPMD IPPS
+KARA1im KARA2im
+ME2m METS MTHFR3 MTHFC
+NADH2-u6cm NADH2-u6m NH4t
+O2t OCBTi OMCDC ORNTACim
+P5CR PAPSR PC PDHm PFK PGCD PGL PIt2r PPA PPAm PPCK PPND2 PPNDH PRAMPC PRAIi PRATPP PRMICIi PSCVTi PSERT PSP_L PYK PYRDC PYRt2
+SHK3D SHKK SO4ti SUCCt2r SUCCtm SUCFUMtm
+THRD_Lm THRS TRPS1
+
+-METINT
+10fthf[c] 13BDglcn[c] 13dpg[c] 1pyr5c[c]
+23dhmb[m] 23dhmp[m] 2ahbut[m] 2cpr5p[c] 2dda7p[c] 2ippm[c] 2pg[c] 2obut[c] 2obut[m] 2oxoadp[c] 2oxoadp[m]
+34hpp[c] 3c2hmp[c] 3c3hmp[c] 3c4mop[c] 3dhq[c] 3dhsk[c] 3ig3p[c] 3mob[c] 3mob[m] 3mop[c] 3mop[m] 3pg[c] 3php[c] 3psme[c]
+4mop[c] 4pasp[c]
+5mthf[c]
+6pgc[c] 6pgl[c]
+ac[c] ac[m] acald[c] acald[m] accoa[c] accoa[m] acg5p[m] acg5sa[m] acglu[m] achms[c] alac-S[m] acorn[m] adp[c] adp[m] aicar[c] akg[c] akg[m] ala-L[c] ala-L[m] amp[c] amp[m] anth[c] aps[c] arg-L[c] argsuc[c] asn-L[c] asp-L[c] aspsa[c] atp[c] atp[m] 
+b124tc[m] 
+cbp[c] chor[c] cit[c] cit[m] citr-L[c] cmp[c] co2tot[c] co2tot[m] coa[c] coa[m] cys-L[c] cyst-L[c]
+damp[c] dcmp[c] dgmp[c] dhap[c] dtmp[c]
+e4p[c] eig3p[c] ergst[c] etoh[c] etoh[m]
+f6p[c] fdp[c] ficytc[m] focytc[m] for[c] fum[c] fum[m]
+g3p[c] g6p[c] glc-D[c] gln-L[c] gln-L[m] glu5p[c] glu5sa[c] glu-L[c] glu-L[m] glx[c] glx[m] gly[c] gly[m] glyc[c] glyc3p[c] gmp[c]
+h[c] h[m] h2o[c] h2o[m] h2s[c] hcit[c] hcit[m] hcys-L[c] hicit[m] his-L[c] hisp[c] histd[c] hom-L[c]
+icit[c] icit[m] ile-L[c] imacp[c]
+L2aadp[c] L2aadp6sa[c] leu-L[c] lys-L[c] 
+mal-L[c] mal-L[m] mannan[c] met-L[c] methf[c] mlthf[c]
+nad[c] nad[m] nadh[c] nadh[m] nadp[c] nadp[m] nadph[c] nadph[m] nh4[c] nh4[m]
+o2[c] o2[m] oaa[c] oaa[m] orn[c] orn[m] oxag[m]
+pa_SC[c] pap[c] paps[c] pc_SC[c] pep[c] pe_SC[c] phe-L[c] phom[c] phpyr[c] pi[c] pi[m] pphn[c] ppi[c] ppi[m] pran[c] prbamp[c] prbatp[c] prfp[c] prlp[c] pro-L[c] prpp[c] ps_SC[c] pser-L[c] ptd1ino_SC[c] pyr[c] pyr[m]
+q6[m] q6h2[m]
+r5p[c] ru5p-D[c]
+s7p[c] saccrp-L[c] ser-L[c] skm[c] skm5p[c] so3[c] so4[c] succ[c] succ[m] succoa[m]
+thf[c] thr-L[c] thr-L[m] triglyc_SC[c] trp-L[c] tyr-L[c]
+ump[c]
+val-L[c]
+xu5p-D[c]
+zymst[c]
+
+-METEXT
+biomass
+ac[e]
+co2tot[e]
+etoh[e]
+glc-D[e] glyc[e]
+h[e] h2o[e]
+nh4[e]
+o2[e]
+pi[e] pyr[e] 
+so4[e] succ[e]
+
+-CAT
+ASPTA : 1 akg[c] + 1 asp-L[c] = 1 glu-L[c] + 1 oaa[c] .
+ASPKi : 1 asp-L[c] + 1 atp[c] => 1 4pasp[c] + 1 adp[c] .
+ASNS1 : 1 asp-L[c] + 1 atp[c] + 1 gln-L[c] + 1 h2o[c] => 1 amp[c] + 1 asn-L[c] + 1 glu-L[c] + 1 h[c] + 1 ppi[c] .
+ASADi : 1 4pasp[c] + 1 h[c] + 1 nadph[c] => 1 aspsa[c] + 1 nadp[c] + 1 pi[c] .
+ALATA_Lm : 1 glu-L[m] + 1 pyr[m] => 1 akg[m] + 1 ala-L[m] .
+ALATA_L : 1 glu-L[c] + 1 pyr[c] => 1 akg[c] + 1 ala-L[c] .
+PPCK : 1 atp[c] + 1 oaa[c] + 1 h2o[c] => 1 adp[c] + 1 co2tot[c] + 1 pep[c] .
+PC : 1 atp[c] + 1 co2tot[c] + 1 pyr[c] => 1 adp[c] + 1 h[c] + 1 oaa[c] + 1 pi[c] .
+ME2m : 1 mal-L[m] + 1 nadp[m] + 1 h2o[m] => 1 co2tot[m] + 1 nadph[m] + 1 pyr[m] .
+ICL : 1 icit[c] => 1 glx[c] + 1 succ[c] .
+FBP : 1 fdp[c] + 1 h2o[c] => 1 f6p[c] + 1 pi[c] .
+P5CR : 1 1pyr5c[c] + 2 h[c] + 1 nadph[c] => 1 nadp[c] + 1 pro-L[c] .
+ORNTACim : 1 acorn[m] + 1 glu-L[m] => 1 acglu[m] + 1 orn[m] .
+OCBTi : 1 cbp[c] + 1 orn[c] => 1 citr-L[c] + 1 h[c] + 1 pi[c] .
+GLU5K : 1  atp[c] + 1 glu-L[c] => 1 adp[c] + 1 glu5p[c] .
+G5SD : 1 glu5p[c] + 1 h[c] + 1 nadph[c] => 1 glu5sa[c] + 1 nadp[c] + 1 pi[c] .
+G5SADr : 1 glu5sa[c] = 1 1pyr5c[c] + 1 h[c] + 1 h2o[c] .
+CBPS :  2 atp[c] + 1 gln-L[c] + 1 h2o[c] + 1 co2tot[c] => 2 adp[c] + 1 cbp[c] + 1 glu-L[c] + 2 h[c] + 1 pi[c] .
+ARGSSr :  asp-L[c] + atp[c] + citr-L[c] = amp[c] + argsuc[c] + h[c] + ppi[c] .
+ARGSL : 1 argsuc[c] = 1 arg-L[c] + 1 fum[c] .
+AGPRim : 1 acg5p[m] + 1 h[m] + 1 nadph[m] => 1 acg5sa[m] + 1 nadp[m] + 1 pi[m] .
+ACOTAim : 1 acg5sa[m] + 1 glu-L[m] => 1 acorn[m] + 1 akg[m] .
+ACGKm : 1 acglu[m] + 1 atp[m] => 1 acg5p[m] + 1 adp[m] .
+SUCOAS1m : 1 atp[m] + 1 coa[m] + 1 succ[m] = 1 adp[m] + 1 pi[m] + 1 succoa[m] .
+SUCD2_u6m : 1 q6[m] + 1 succ[m] = 1 fum[m] + 1 q6h2[m] .
+ICDHy : 1 icit[c] + 1 nadp[c] + 1 h2o[c] => 1 akg[c] + 1 co2tot[c] + 1 nadph[c] .
+ICDHxm : 1 icit[m] + 1 nad[m] + 1 h2o[m] => 1 akg[m] + 1 co2tot[m] + 1 nadh[m] .
+CSm : 1 accoa[m] + 1 h2o[m] + 1 oaa[m] => 1 cit[m] + 1 coa[m] + 1 h[m] .
+AKGDam : 1 akg[m] + 1 coa[m] + 1 h2o[m] + 1 nad[m] = 1 co2tot[m] + 1 nadh[m] + 1 succoa[m] .
+ACONTm : 1 cit[m] = 1 icit[m] .
+ACONT : 1 cit[c] = 1 icit[c] .
+SULR : 3 h2o[c] + 1 h2s[c] + 3 nadp[c] = 5 h[c] + 3 nadph[c] + 1 so3[c] .
+SLFAT : 1 adp[c] + 1 h[c] + 1 so4[c] = 1 aps[c] + 1 pi[c] .
+PAPSR : 1 paps[c] + 1 nadph[c] => 1 h[c] + 1 pap[c] + 1 so3[c] + 1 nadp[c] .
+BPNT : 1 h2o[c] + 1 pap[c] => 1 amp[c] + 1 pi[c] .
+ADSK : 1 aps[c] + 1 atp[c] => 1 adp[c] + 1 h[c] + 1 paps[c] .
+MTHFR3 : 1 h[c] + 1 mlthf[c] + 1 nadph[c] => 1 5mthf[c] + 1 nadp[c] .
+MTHFD : 1 mlthf[c] + 1 nadp[c] = 1 h[c] + 1 methf[c] + 1 nadph[c] .
+MTHFC : 1 h2o[c] + 1 methf[c] = 1 10fthf[c] .
+FTHFL : 1 atp[c] + 1 for[c] + 1 thf[c] = 1 10fthf[c] + 1 adp[c] + 1 pi[c] .
+GLUDy : 1 glu-L[c] + 1 h2o[c] + 1 nadp[c] = 1 akg[c] + 1 h[c] + 1 nadph[c] + 1 nh4[c] .
+GLNS : 1 atp[c] + 1 glu-L[c] + 1 nh4[c] => 1 adp[c] + 1 gln-L[c] + 1 h[c] + 1 pi[c] .
+ANS : 1 chor[c] + 1 gln-L[c] => 1 anth[c] + 1 glu-L[c] + 1 h[c] + 1 pyr[c] .
+GLYK : 1 atp[c] + 1 glyc[c] => 1 adp[c] + 1 glyc3p[c] + 1 h[c] .
+G3PT : 1 glyc3p[c] + 1 h2o[c] => 1 glyc[c] + 1 pi[c] .
+G3PD1ir : 1 dhap[c] + 1 h[c] + 1 nadh[c] => 1 glyc3p[c] + 1 nad[c] .
+ALCD2m : 1 etoh[m] + 1 nad[m] = 1 acald[m] + 1 h[m] + 1 nadh[m] .
+PSP_L : 1 h2o[c] + 1 pser-L[c] => 1 pi[c] + 1 ser-L[c] .
+PSERT : 1 3php[c] + 1 glu-L[c] => 1 akg[c] + 1 pser-L[c] .
+PGCD : 1 3pg[c] + 1 nad[c] => 1 3php[c] + 1 h[c] + 1 nadh[c] .
+HSK : 1 atp[c] + 1 hom-L[c] => 1 adp[c] + 1 h[c] + 1 phom[c] .
+HSDyi : 1 aspsa[c] + 1 h[c] + 1 nadph[c] => 1 hom-L[c] + 1 nadp[c] .
+GHMT2r : 1 ser-L[c] + 1 thf[c] = 1 gly[c] + 1 h2o[c] + 1 mlthf[c] .
+CYSTS : 1 hcys-L[c] + 1 ser-L[c] => 1 cyst-L[c] + 1 h2o[c] .
+TPI : 1 dhap[c] = 1 g3p[c] .
+PYK : 1 adp[c] + 1 h[c] + 1 pep[c] => 1 atp[c] + 1 pyr[c] .
+PGM : 1 2pg[c] = 1 3pg[c] .
+PGK : 1 3pg[c] + 1 atp[c] = 1 13dpg[c] + 1 adp[c] .
+PGI : 1 g6p[c] = 1 f6p[c] .
+PFK : 1 atp[c] + 1 f6p[c] => 1 adp[c] + 1 fdp[c] + 1 h[c] .
+PDHm : 1 coa[m] + 1 nad[m] + 1 pyr[m] + 1 h2o[m] => 1 accoa[m] + 1 co2tot[m] + 1 nadh[m] .
+HEX1 : 1 atp[c] + 1 glc-D[c] => 1 adp[c] + 1 g6p[c] + 1 h[c] .
+GAPD : 1 g3p[c] + 1 nad[c] + 1 pi[c] = 1 13dpg[c] + 1 h[c] + 1 nadh[c] .
+FBA : 1 fdp[c] = 1 dhap[c] + 1 g3p[c] .
+ENO : 1 2pg[c] = 1 h2o[c] + 1 pep[c] .
+PRPPS : 1 atp[c] + 1 r5p[c] = 1 amp[c] + 1 h[c] + 1 prpp[c] .
+PRMICIi : 1 prfp[c] => 1 prlp[c] .
+PRATPP : 1 h2o[c] + 1 prbatp[c] => 1 h[c] + 1 ppi[c] + 1 prbamp[c] .
+PRAMPC : 1 h2o[c] + 1 prbamp[c] => 1 prfp[c] .
+IGPDH : 1 eig3p[c] => 1 h2o[c] + 1 imacp[c] .
+IG3PS : 1 gln-L[c] + 1 prlp[c] => 1 aicar[c] + 1 eig3p[c] + 1 glu-L[c] + 1 h[c] .
+HSTPT : 1 glu-L[c] + 1 imacp[c] => 1 akg[c] + 1 hisp[c] .
+HISTP : 1 h2o[c] + 1 hisp[c] => 1 histd[c] + 1 pi[c] .
+HISTD : 1 h2o[c] + 1 histd[c] + 2 nad[c] => 3 h[c] + 1 his-L[c] + 2 nadh[c] .
+ATPPRT : 1 atp[c] + 1 prpp[c] => 1 ppi[c] + 1 prbatp[c] .
+FDH : 1 for[c] + 1 nad[c] + 1 h2o[c] => 1 co2tot[c] + 1 nadh[c] .
+METS : 1 5mthf[c] + 1 hcys-L[c] => 1 met-L[c] + 1 thf[c] .
+HSERTA : 1 accoa[c] + 1 hom-L[c] = 1 achms[c] + 1 coa[c] .
+CYSTGL : 1 cyst-L[c] + 1 h2o[c] => 1 2obut[c] + 1 cys-L[c] + 1 nh4[c] .
+AHSERL2 : 1 achms[c] + 1 h2s[c] => 1 ac[c] + 1 h[c] + 1 hcys-L[c] .
+ADK1m : 1 amp[m] + 1 atp[m] = 2 adp[m] .
+ADK1 : 1 amp[c] + 1 atp[c] = 2 adp[c] .
+PPAm : 1 h2o[m] + 1 ppi[m] => 1 h[m] + 2 pi[m] .
+PPA : 1 h2o[c] + 1 ppi[c] => 1 h[c] + 2 pi[c] .
+NADH2-u6m : 1 h[m] + 1 nadh[m] + 1 q6[m] => 1 nad[m] + 1 q6h2[m] .
+NADH2-u6cm : 1 h[c] + 1 nadh[c] + 1 q6[m] => 1 nad[c] + 1 q6h2[m] .
+MDHm : 1 mal-L[m] + 1 nad[m] = 1 h[m] + 1 nadh[m] + 1 oaa[m] .
+MDH : 1 mal-L[c] + 1 nad[c] = 1 h[c] + 1 nadh[c] + 1 oaa[c] .
+FUMm : 1 fum[m] + 1 h2o[m] = 1 mal-L[m] .
+FUM : 1 fum[c] + 1 h2o[c] = 1 mal-L[c] .
+CYOR_u6m : 2 ficytc[m] + 1.5 h[m] + 1 q6h2[m] => 2 focytc[m] + 1.5 h[c] + 1 q6[m] .
+CYOOm : 4 focytc[m] + 6 h[m] + 1 o2[m] => 4 ficytc[m] + 6 h[c] + 2 h2o[m] .
+ATPS3m : 1 adp[m] + 3 h[c] + 1 pi[m] => 1 atp[m] + 3 h[m] + 1 h2o[m] .
+TKT2 : 1 e4p[c] + 1 xu5p-D[c] = 1 f6p[c] + 1 g3p[c] .
+TKT1 : 1 r5p[c] + 1 xu5p-D[c] = 1 g3p[c] + 1 s7p[c] .
+TALA : 1 g3p[c] + 1 s7p[c] = 1 e4p[c] + 1 f6p[c] .
+RPI : 1 r5p[c] = 1 ru5p-D[c] .
+RPE : 1 ru5p-D[c] = 1 xu5p-D[c] .
+PGL : 1 6pgl[c] + 1 h2o[c] => 1 6pgc[c] + 1 h[c] .
+GND : 1 6pgc[c] + 1 nadp[c] + 1 h2o[c] => 1 co2tot[c] + 1 nadph[c] + 1 ru5p-D[c] .
+G6PDH2 : 1 g6p[c] + 1 nadp[c] => 1 6pgl[c] + 1 h[c] + 1 nadph[c] .
+PYRDC : 1 h[c] + 1 pyr[c] + 1 h2o[c] => 1 acald[c] + 1 co2tot[c] .
+ALCD2x : 1 etoh[c] + 1 nad[c] = 1 acald[c] + 1 h[c] + 1 nadh[c] .
+ACSm : 1 ac[m] + 1 atp[m] + 1 coa[m] => 1 accoa[m] + 1 amp[m] + 1 ppi[m] .
+ACS : 1 ac[c] + 1 atp[c] + 1 coa[c] => 1 accoa[c] + 1 amp[c] + 1 ppi[c] .
+ACOAH : 1 ac[c] + 1 coa[c] + 1 h[c] = 1 accoa[c] + 1 h2o[c] .
+THRS : 1 h2o[c] + 1 phom[c] => 1 pi[c] + 1 thr-L[c] .
+THRD_Lm : 1 thr-L[m] => 1 2obut[m] + 1 nh4[m] .
+THRA : 1 acald[c] + 1 gly[c] = 1 thr-L[c] .
+SACCD2 : 1 h2o[c] + 1 nad[c] + 1 saccrp-L[c] = 1 akg[c] + 1 h[c] + 1 lys-L[c] + nadh[c] .
+SACCD1 : 1 L2aadp6sa[c] + 1 glu-L[c] + 1 h[c] + 1 nadph[c] = 1 h2o[c] + 1 nadp[c] + 1 saccrp-L[c] .
+OXAGm : 1 h[m] + 1 oxag[m] + 1 h2o[m] = 1 2oxoadp[m] + 1 co2tot[m] .
+MCITDm : 1 hcit[m] = 1 b124tc[m] + 1 h2o[m] .
+HICITDm : 1 hicit[m] + 1 nad[m] = 1 h[m] + 1 nadh[m] + 1 oxag[m] .
+HACNHm : 1 b124tc[m] + 1 h2o[m] = 1 hicit[m] .
+AATA : 1 2oxoadp[c] + 1 glu-L[c] = 1 L2aadp[c] + 1 akg[c] .
+AASAD1 : 1 L2aadp[c] + 1 atp[c] + 1 h[c] + 1 nadph[c] => 1 L2aadp6sa[c] + 1 amp[c] + 1 nadp[c] + 1 ppi[c] .
+TYRTA : 1 akg[c] + 1 tyr-L[c] = 1 34hpp[c] + 1 glu-L[c] .
+TRPS1 : 1 3ig3p[c] + 1 ser-L[c] => 1 g3p[c] + 1 h2o[c] + 1 trp-L[c] .
+SHKK : 1 atp[c] + 1 skm[c] => 1 adp[c] + 1 h[c] + 1 skm5p[c] .
+SHK3D : 1 3dhsk[c] + 1 h[c] + 1 nadph[c] => 1 nadp[c] + 1 skm[c] .
+PSCVTi : 1 pep[c] + 1 skm5p[c] => 1 3psme[c] + 1 pi[c] .
+PRAIi : 1 pran[c] => 1 2cpr5p[c] .
+PPNDH : 1 h[c] + 1 pphn[c] => 1 co2tot[c] + 1 phpyr[c] .
+PPND2 : 1 nadp[c] + 1 pphn[c] + 1 h2o[c] => 1 34hpp[c] + 1 co2tot[c] + 1 nadph[c] .
+PHETA1 : 1 akg[c] + 1 phe-L[c] = 1 glu-L[c] + 1 phpyr[c] .
+IGPS : 1 2cpr5p[c] + 1 h[c] => 1 3ig3p[c] + 1 co2tot[c] .
+DHQTi : 1 3dhq[c] => 1 3dhsk[c] + 1 h2o[c] .
+DHQS : 1 2dda7p[c] => 1 3dhq[c] + 1 pi[c] .
+DDPA : 1 e4p[c] + 1 h2o[c] + 1 pep[c] => 1 2dda7p[c] + 1 pi[c] .
+CHORS : 1 3psme[c] => 1 chor[c] + 1 pi[c] .
+CHORM : 1 chor[c] => pphn[c] .
+ANPRT : 1 anth[c] + 1 prpp[c] => 1 ppi[c] + 1 pran[c] .
+ALDD2ym : 1 acald[m] + 1 h2o[m] + 1 nadp[m] => 1 ac[m] + 2 h[m] + 1 nadph[m] .
+ALDD2y : 1 acald[c] + 1 h2o[c] + 1 nadp[c] => 1 ac[c] + 2 h[c] + 1 nadph[c] .
+ALDD2xm : 1 acald[m] + 1 h2o[m] + 1 nad[m] => 1 ac[m] + 2 h[m] + 1 nadh[m] .
+VALTA : 1 akg[c] + 1 val-L[c] = 1 3mob[c] + 1 glu-L[c] .
+OMCDC : 1 3c4mop[c] + 1 h[c] + 1 h2o[c] => 1 4mop[c] + 1 co2tot[c] .
+LEUTA : 1 akg[c] + 1 leu-L[c] = 1 4mop[c] + 1 glu-L[c] .
+KARA2im : 1 2ahbut[m] + 1 h[m] + 1 nadph[m] => 1 23dhmp[m] + 1 nadp[m] .
+KARA1im : 1 alac-S[m] + 1 h[m] + 1 nadph[m] => 1 23dhmb[m] + 1 nadp[m] .
+IPPS : 1 3mob[c] + 1 accoa[c] + 1 h2o[c] => 1 3c3hmp[c] + 1 coa[c] + 1 h[c] .
+IPPMIb : 1 2ippm[c] + 1 h2o[c] = 1 3c3hmp[c] .
+IPPMIa : 1 3c2hmp[c] = 1 2ippm[c] + 1 h2o[c] .
+IPMD : 1 3c2hmp[c] + 1 nad[c] => 1 3c4mop[c] + 1 h[c] + 1 nadh[c] .
+ILETA : 1 akg[c] + 1 ile-L[c] = 1 3mop[c] + 1 glu-L[c] .
+DHAD2m : 1 23dhmp[m] => 1 3mop[m] + 1 h2o[m] .
+DHAD1m : 1 23dhmb[m] => 1 3mob[m] + 1 h2o[m] .
+ACLSm  : 1 h[m] + 2 pyr[m] + 1 h2o[m] => 1 alac-S[m] + 1 co2tot[m] .
+ACHBSm : 1 2obut[m] + 1 h[m] + 1 pyr[m] + 1 h2o[m] => 1 2ahbut[m] + 1 co2tot[m] .
+GLUSxm : 1 akg[m] + 1 gln-L[m] + 1 h[m] + 1 nadh[m] => 2 glu-L[m] + 1 nad[m] .
+AGTm : 1 ala-L[m] + 1 glx[m] = 1 gly[m] + 1 pyr[m] .
+HCITS : 1 accoa[c] + 1 akg[c] + 1 h2o[c] = 1 coa[c] + 1 h[c] + 1 hcit[c] .
+MALS : 1 accoa[c] + 1 glx[c] + 1 h2o[c] = 1 coa[c] + 1 h[c] + 1 mal-L[c] .
+GLUDym : 1 glu-L[m] + 1 h2o[m] + 1 nadp[m] = 1 akg[m] + 1 h[m] + 1 nadph[m] + 1 nh4[m] .
+CSc : 1 accoa[c] + 1 h2o[c] + 1 oaa[c] => 1 cit[c] + 1 coa[c] + 1 h[c] .
+SUCCt2r : 1 h[c] + 1 succ[c] => 1 h[e] + 1 succ[e] .
+SO4ti : 1 so4[e] => 1 so4[c] .
+PYRt2 : 1 pyr[c] => 1 pyr[e] .
+PIt2r : 1 h[e] + 1 pi[e] => 1 h[c] + 1 pi[c] .
+O2t : 1 o2[e] => 1 o2[c] .
+NH4t : 1 nh4[e] => nh4[c] .
+H2Ot : 1 h2o[e] = 1 h2o[c] .
+GLYCt : 1 glyc[c] => 1 glyc[e]
+GLCt1 : 1 glc-D[e] => 1 glc-D[c] .
+ETOHt : 1 etoh[c] => 1 etoh[e] .
+CO2t : 1 co2tot[e] = 1 co2tot[c] .
+ATPS : 1 atp[c] + 1 h2o[c] => 1 adp[c] + 1 h[e] + 1 pi[c] .
+ACt2r : 1 ac[c] => 1 ac[e] .
+THRt2m : 1 thr-L[c] = 1 thr-L[m] .
+SUCFUMtm : 1 fum[m] + 1 succ[c] => 1 fum[c] + 1 succ[m] .
+SUCCtm : 1 pi[m] + 1 succ[c] => 1 pi[c] + 1 succ[m] .
+PYRt2m : 1 h[c] + 1 pyr[c] = 1 h[m] + 1 pyr[m] .
+PIt2m : 1 h[c] + 1 pi[c] = 1 h[m] + 1 pi[m] .
+ORNt3m : 1 orn[m] = 1 orn[c] .
+OAAt2m : 2 h[c] + 1 oaa[c] = 2 h[m] + 1 oaa[m] .
+O2tm : 1 o2[c] = 1 o2[m] .
+NH4tm : 1 nh4[c] = 1 nh4[m] .
+MALtm : 1 mal-L[c] + 1 pi[m] = 1 mal-L[m] + 1 pi[c] .
+H2Otm : 1 h2o[c] = 1 h2o[m] .
+GLYt2m : 1 gly[c] = 1 gly[m] .
+GLUt2m : 1 glu-L[c] + 1 h[c] = 1 glu-L[m] + 1 h[m] .
+ETOHtm : 1 etoh[c] = 1 etoh[m] .
+CO2tm : 1 co2tot[c] = 1 co2tot[m] .
+CITtcm : 1 cit[c] + 1 icit[m] = 1 cit[m] + 1 icit[c] .
+CITtam : 1 cit[c] + 1 mal-L[m] = 1 cit[m] + 1 mal-L[c] .
+ATPtm-H : 1 adp[c] + 1 atp[m] => 1 adp[m] + 1 atp[c] .
+ACtm : 1 ac[c] = 1 ac[m] .
+3MOPtm : 1 3mop[c] = 1 3mop[m] .
+3MOBtm : 1 3mob[c] = 1 3mob[m] .
+2OXOADPtim : 1 2oxoadp[m] + 1 akg[c] => 1 2oxoadp[c] + 1 akg[m] .
+GLNt2m : 1 gln-L[c] = 1 gln-L[m] .
+2OBUTtm : 1 2obut[c] = 1 2obut[m] .
+ALAt2m : 1 ala-L[c] = 1 ala-L[m] .
+HCITtm : 1 hcit[c] = 1 hcit[m] .
+GLXtm : 1 glx[c] = 1 glx[m] .
+ACALDtm : 1 acald[c] = 1 acald[m] .
+aicarSYN : 1 10fthf[c] + 1 asp-L[c] + 5 atp[c] + 1 co2tot[c] + 2 gln-L[c] + 1 gly[c] + 1 h2o[c] + 1 r5p[c] => 4 adp[c] + 1 aicar[c] + 1 amp[c] + 1 fum[c] + 2 glu-L[c] + 8 h[c] + 4 pi[c] + 1 ppi[c] + 1 thf[c] .
+ampSYN : 1 10fthf[c] + 1 aicar[c] + 1 asp-L[c] + 1 atp[c] => 1 adp[c] + 1 amp[c] + 1 fum[c] + 2 h[c] + 1 h2o[c] + 1 pi[c] + 1 thf[c] .
+dampSYN : 1 amp[c] + 1 h[c] + 1 nadph[c] => 1 damp[c] + 1 h2o[c] + 1 nadp[c] .
+gmpSYN : 1 10fthf[c] + 1 aicar[c] + 1 atp[c] + 1 gln-L[c] + 1 h2o[c] + 1 nad[c] => 1 amp[c] + 1 glu-L[c] + 1 gmp[c] + 3 h[c] + 1 nadh[c] + 1 ppi[c] + 1 thf[c] .
+dgmpSYN : 1 gmp[c] + 1 h[c] + 1 nadph[c] => 1 dgmp[c] + 1 h2o[c] + 1 nadp[c] .
+umpSYN : 1 asp-L[c] + 3 atp[c] + 1 gln-L[c] + 0.5 o2[c] + 1 r5p[c] => 2 adp[c] + 1 amp[c] + 1 glu-L[c] + 2 h[c] + 2 pi[c] + 1 ppi[c] + 1 ump[c] .
+cmpSYN : 1 atp[c] + 1 nh4[c] + 1 ump[c] => 1 adp[c] + 1 cmp[c] + 2 h[c] + 1 pi[c] .
+dcmpSYN : 1 cmp[c] + 1 h[c] + 1 nadph[c] => 1 dcmp[c] + 1 h2o[c] + 1 nadp[c] .
+dtmpSYN : 1 dcmp[c] + 2 h[c] + 1 h2o[c] + 1 mlthf[c] + 1 nadph[c] => 1 dtmp[c] + 1 nadp[c] + 1 nh4[c] + 1 thf[c] .
+13BDglcnSYN : 1 atp[c] + 1 g6p[c] => 1 13BDglcn[c] + 1 adp[c] + 1 ppi[c] .
+mannanSYN : 1 atp[c] + 1 f6p[c] => 1 adp[c] + 1 mannan[c] + 1 ppi[c] .
+zymstSYN : 18 accoa[c] + 18 atp[c] + 11 h[c] + 1 h2o[c] + 2 nad[c] + 26 nadph[c] + 10 o2[c] => 18 adp[c] + 8 co2tot[c] + 18 coa[c] + 1 for[c] + 2 nadh[c] + 26 nadp[c] + 6 pi[c] + 6 ppi[c] + 1 zymst[c] .
+ergstSYN : 2 atp[c] + 1 h[c] + 1 met-L[c] + 3 nadph[c] + 2 o2[c] + 1 zymst[c] => 1 adp[c] + 1 amp[c] + 1 ergst[c] + 2 h2o[c] + 1 hcys-L[c] + 3 nadp[c] + 1 pi[c] + 1 ppi[c] .
+paSYN : 16.2 accoa[c] + 14.2 atp[c] + 1 glyc3p[c] + 15.38 h[c] + 29.58 nadph[c] + 1.18 o2[c] => 14.2 adp[c] + 16.2 coa[c] + 2.36 h2o[c] + 29.58 nadp[c] + 1 pa_SC[c] + 14.2 pi[c] .
+psSYN : 2 atp[c] + 1 pa_SC[c] + 1 ser-L[c] => 2 adp[c] + 1 ppi[c] + 1 ps_SC[c] .
+peSYN : 1 h[c] + 1 h2o[c] + 1 ps_SC[c] => 1 co2tot[c] + 1 pe_SC[c] .
+pcSYN : 6 atp[c] + 6 h2o[c] + 3 met-L[c] + 1 pe_SC[c] => 3 adp[c] + 3 amp[c] + 6 h[c] + 3 hcys-L[c] + 1 pc_SC[c] + 3 pi[c] + 3 ppi[c] .
+ptd1inoSYN : 2 atp[c] + 1 g6p[c] + 1 h2o[c] + 1 pa_SC[c] => 2 adp[c] + 1 pi[c] + 1 ppi[c] + 1 ptd1ino_SC[c] .
+triglycSYN : 8.1 accoa[c] + 7.1 atp[c] + 7.69 h[c] + 14.79 nadph[c] + 0.59 o2[c] + 1 pa_SC[c] => 7.1 adp[c] + 8.1 coa[c] + 0.18 h2o[c] + 14.79 nadp[c] + 8.1 pi[c] + 1 triglyc_SC[c] .
+biomassSYN : 1.1348 13BDglcn[c] + 0.4588 ala-L[c] + 0.046 amp[c] + 0.1607 arg-L[c] + 0.1017 asn-L[c] + 0.2975 asp-L[c] + 59.276 atp[c] + 0.0447 cmp[c] + 0.0066 cys-L[c] + 0.0036 damp[c] + 0.0024 dcmp[c] + 0.0024 dgmp[c] + 0.0036 dtmp[c] + 0.0007 ergst[c] + 0.1054 gln-L[c] + 0.3018 glu-L[c] + 0.2904 gly[c] + 0.046 gmp[c] + 59.276 h2o[c] + 0.0663 his-L[c] + 0.1927 ile-L[c] + 0.2964 leu-L[c] + 0.2862 lys-L[c] + 0.8079 mannan[c] + 0.0507 met-L[c] + 6e-006 pa_SC[c] + 6e-005 pc_SC[c] + 4.5e-005 pe_SC[c] + 0.1339 phe-L[c] + 0.1647 pro-L[c] + 1.7e-005 ps_SC[c] + 5.3e-005 ptd1ino_SC[c] + 0.1854 ser-L[c] + 0.02 so4[c] + 0.1914 thr-L[c] + 6.6e-005 triglyc_SC[c] + 0.0284 trp-L[c] + 0.102 tyr-L[c] + 0.0599 ump[c] + 0.2646 val-L[c] + 0.0015 zymst[c] => 59.276 adp[c] + 58.7162 h[c] + 59.305 pi[c] + 1 biomass
+
+
